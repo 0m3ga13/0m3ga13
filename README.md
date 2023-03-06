@@ -2,7 +2,7 @@
 <h3 align="center">Polytechnic Engineer🌟.</h3>
 
 <br>
-<img src="https://github.com/0m3ga13/0m3ga13/blob/main/coding.gif?raw=true" width="400" />
+<img align="right" src="https://github.com/0m3ga13/0m3ga13/blob/main/coding.gif?raw=true" width="400" />
 
 
 <br>
