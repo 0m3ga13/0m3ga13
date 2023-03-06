@@ -64,4 +64,4 @@
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
       width="40" height="40" /> </a> 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,vue,tailwind,tensorflow,octave,unity,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=wasm,vue,tailwind,tensorflow,octave,unity,mongodb)](https://skillicons.dev)
