@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Oussama</h1>
-<h3 align="center">Polytechnic Engineer🌟.</h3>
+<h3 align="center">Frontend developer 🌟.</h3>
 
 <br>
 <img align="right" src="https://github.com/0m3ga13/0m3ga13/blob/main/coding.gif?raw=true" width="400" />
